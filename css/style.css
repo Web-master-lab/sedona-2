@@ -378,19 +378,19 @@ img {
 }
 
 .features-item-inner:nth-of-type(1) {
-  background-image: url(/mages/icons/icon-home.svg);
+  background-image: url("images/icons/icon-home.svg");
   background-repeat: no-repeat;
   background-position: 163px 89px;
 }
 
 .features-item-inner:nth-of-type(2) {
-  background-image: url(/mages/icons/icon-burger.svg);
+  background-image: url("images/icons/icon-burger.svg");
   background-repeat: no-repeat;
   background-position: 163px 89px;
 }
 
 .features-item-inner:nth-of-type(3) {
-  background-image: url(/mages/icons/icon-present.svg);
+  background-image: url("images/icons/icon-present.svg");
   background-repeat: no-repeat;
   background-position: 163px 89px;
 }
@@ -670,7 +670,7 @@ img {
   width: 5px;
   height: 8px;
   position: absolute;
-  background-image: url(/mages/arrow-filter.svg);
+  background-image: url("images/arrow-filter.svg");
   background-repeat: no-repeat;
   left: -15px;
   top: 11px;
@@ -796,7 +796,7 @@ img {
   position: absolute;
   width: 20px;
   height: 20px;
-  background-image: url(/mages/icons/control-check.svg);
+  background-image: url("images/icons/control-check.svg");
   background-repeat: no-repeat;
   background-position: 50% 50%;
 }
@@ -1165,7 +1165,7 @@ img {
 
 .select-button::after {
   content: "";
-  background-image: url(/mages/icons/icon-arrow-select.svg);
+  background-image: url("images/icons/icon-arrow-select.svg");
   background-repeat: no-repeat;
   background-position: 50% 50%;
 }
@@ -1260,19 +1260,19 @@ img {
 }
 
 .view-link-cards {
-  background-image: url(/mages/icons/icon-cards.svg);
+  background-image: url("images/icons/icon-cards.svg");
   background-position: 50% 50%;
   background-repeat: no-repeat;
 }
 
 .view-link-slides {
-  background-image: url(/mages/icons/icon-slides.svg);
+  background-image: url("images/icons/icon-slides.svg");
   background-position: 50% 50%;
   background-repeat: no-repeat;
 }
 
 .view-link-list {
-  background-image: url(/mages/icons/icon-list.svg);
+  background-image: url("images/icons/icon-list.svg");
   background-position: 50% 50%;
   background-repeat: no-repeat;
 }
@@ -1356,9 +1356,9 @@ img {
 
 .star {
   margin: 0;
-  background-image: url(/mages/icons/icon-star.svg), url(/mages/icons/icon-star.svg), url(/mages/icons/icon-star.svg),
-  url(/mages/icons/icon-star.svg),
-  url(/mages/icons/icon-star.svg);
+  background-image: url("images/icons/icon-star.svg"), url("images/icons/icon-star.svg"), url("images/icons/icon-star.svg"),
+  url("images/icons/icon-star.svg"),
+  url("images/icons/icon-star.svg");
   background-repeat: no-repeat;
   background-position-y: 50%;
   background-position-x: 0;
@@ -1587,7 +1587,7 @@ img {
   position: absolute;
   width: 13px;
   height: 13px;
-  background-image: url(/mages/icons/modal-close.svg);
+  background-image: url("images/icons/modal-close.svg");
   background-repeat: no-repeat;
   background-position: center;
   top: calc(50% - 6.5px);
@@ -1779,7 +1779,7 @@ img {
 
 .button-minus::after {
   content: "";
-  background-image: url(/mages/icons/minus.svg);
+  background-image: url("images/icons/minus.svg");
   width: 50px;
   height: 50px;
   position: absolute;
@@ -1806,7 +1806,7 @@ img {
 
 .button-plus::after {
   content: "";
-  background-image: url(/mages/icons/plus.svg);
+  background-image: url("images/icons/plus.svg");
   width: 50px;
   height: 50px;
   position: absolute;
@@ -1841,7 +1841,7 @@ img {
   background-color: #83b3d3;
   border-radius: 50%;
   align-self: center;
-  background-image: url(/mages/icons/word-i.svg);
+  background-image: url("images/icons/word-i.svg");
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -1873,7 +1873,7 @@ img {
 .field-info-text::before {
   content: "";
   position: absolute;
-  background-image: url(/mages/icons/triangle.svg);
+  background-image: url("images/icons/triangle.svg");
   width: 19px;
   height: 9px;
   background-repeat: no-repeat;
